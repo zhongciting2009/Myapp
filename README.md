@@ -1,1 +1,2 @@
-
+出题与出答案程序源代码arithmetic3.cpp及审核答案对错的源代码程序2.cpp均位于arithmetic3文件夹<br>
+Exercises.txt为题目文件，Answers.txt为答案文件，result.txt为审核答案对错文件
